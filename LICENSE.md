@@ -1,4 +1,4 @@
-#  
+#  Craft for macOS custom Tool: OCR scanning & offline access is the best Craft for macOS tool, featuring OCR scanning and offline access. Safe, efficient, and optimized for macOS
 
 
 
